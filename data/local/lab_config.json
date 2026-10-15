@@ -1,0 +1,7 @@
+{
+  "profile": "attackpath-collector",
+  "region": "ap-south-1",
+  "log_group": "/attackpath/vpc-flow",
+  "trail_bucket": "cloud-bucket-sav",
+  "vpc_id": "vpc-01016869033a18a15"
+}
